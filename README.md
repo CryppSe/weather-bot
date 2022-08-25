@@ -1,16 +1,16 @@
 # Weather Bot
-##Description
+## Description
 Telegram bot to view the weather. 
-##Installation
+## Installation
 Weather_bot.py:
-*bot 
+* bot 
  > input value of TG-Bot token
  
-owm.py
-*appid
+owm.py:
+* appid
  > input value of openweathermap API key
 
-##Usage
+## Usage
 To run bot execute this command:
 ```bash
 python weather_bot.py
